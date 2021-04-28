@@ -1,0 +1,5 @@
+{
+    "elixir.credo.strictMode": true,
+    "elixir.credo.ignoreWarningMessages": true,
+    "editor.formatOnSave": true
+}
